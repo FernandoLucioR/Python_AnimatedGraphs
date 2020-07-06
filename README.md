@@ -1,4 +1,4 @@
-# Python_AnimatedGraphs
+# Python_AnimatedCharts
 Python codes for Animated Graphs
 _________________________________
 1. GasoDieselMX.py =>Code to animate a bar graph [Monthly average cost of Gasoline or Diésel in México Jan2020-May2020]
